@@ -1,8 +1,23 @@
-## Olá mundo! Eu sou o Marcos
+# Olá mundo, sou MarcosLontroso 👋
 
-- 🔭 Atualmente buscando formas de desenvolvimento profissional e tecnológico
-- 🌱 Estou estudando Java, PostgreSQL, HTML e CSS. Foco evolutivo em Front-end e Desenvolvimento Web.
-- 😄 Pronouns: ele/dele
+🎓 Estudante Técnico em Informática  
+☕ Focado em Programação Front-end, Desenvolvimento WEB e afins 
+🚀 Aprendendo todos os dias
+
+## 🛠️ Tecnologias
+- Java
+- Git/GitHub
+- JDBC
+- HTML/CSS
+
+## 📚 Atualmente estudando
+
+- [x] Git e GitHub
+- [x] POO
+- [x] JDBC
+- [x] PostgreSQL
+- [ ] Spring Boot
+- [ ] APIs REST
 
 <div>
   <a href="https://github.com/MarcosLontroso">
