@@ -16,7 +16,7 @@
 - [x] POO
 - [x] JDBC
 - [x] PostgreSQL
-- [ ] Spring Boot
+- [x] Spring Boot
 - [ ] APIs REST
 
 <div>
